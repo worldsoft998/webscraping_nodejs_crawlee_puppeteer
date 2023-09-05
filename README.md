@@ -31,7 +31,7 @@ npm install --save puppeteer
 
 Prepare for 3 Input Files
 ====================
-.txt files of the following names in the code:
+.txt files of the following names in the code: (One entry per line, the github does not pertain to this format, be careful!!!)
 
 keywordslist
 -----------------

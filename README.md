@@ -51,11 +51,6 @@ https://money.com/
 https://easywithai.com/
 https://openaimaster.com/
 https://www.fool.com/
-https://towardsdatascience.com
-https://aiforfinance.artefact.com/
-https://aibusiness.com/
-https://www.aifinancial.ca
-https://aiinvestments.pl/
 
 
 proxylist
